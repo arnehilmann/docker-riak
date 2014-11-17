@@ -1,5 +1,5 @@
 VSN = 2.0.2-1
-BUILD=$(VSN)-1
+BUILD=$(VSN)-3
 IMG = arne/riak:$(BUILD)
 IMG_LATEST = arne/riak:latest
 
